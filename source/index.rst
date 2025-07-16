@@ -20,6 +20,3 @@ WonderMV
    docs/7.Multiple_Controller_UART_Communication_Course.md
    docs/Appendix.md
    Download <https://drive.google.com/drive/folders/1bQJppslYzRKvGa1DOAOlkrE1T_FiHloH?usp=sharing>
-
-
-
